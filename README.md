@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @EpicCandyStore
-- 👀 I’m interested in computer stuff
-- 🌱 I’m currently learning git
-- 💞️ I’m looking to collaborate on whatever I find intersting
-- 📫 How to reach me ...
+A rando who does stuff
 
 <!---
 EpicCandyStore/EpicCandyStore is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
